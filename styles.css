@@ -41,10 +41,11 @@ h1 {
 .info {
     padding: 20px;
 }
-.photo img {
-    width: 100%;
-}
 
 .photo {
     display: inline-flex;
+}
+
+.photo img {
+    width: 100%;
 }
